@@ -16,7 +16,9 @@ Measurements
 As mentioned above,the variables remaining are just the calculatd means and standard deviations of these sets of data: 
 
 tBodyAccMeanX
+
 tBodyAccMeanY
+
 tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
