@@ -10,7 +10,7 @@ The original data has been modified by:
   
   -Creating a second, independent tidy data set with the average of each variable for each activity and each subject
 
-Descriptions: Identifiers
+Description: Identifiers
 
 
 The first two columns - Subject and Activity - are Identifiers
